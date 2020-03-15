@@ -79,7 +79,6 @@ p {
     margin-left: 25px;
 }
 
-
 .sectionElement {
     margin-bottom: 20px;
     padding: 50px;
@@ -93,10 +92,6 @@ section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-
-
-
 
 .benefits {
     margin-right: 20px;
@@ -115,19 +110,16 @@ section h2 {
     color: #ffffff;
 }
 
-
 h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
 
 .benefitElement img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
 
 .footer {
     padding: 30px;
